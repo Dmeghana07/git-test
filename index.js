@@ -1,13 +1,13 @@
-/*const hello = () => {
+const hello = () => {
     console.log("Hello Node.js!");
   };
   
-  hello();*/
+  hello();
 
 
-  hello="Hello";
+  /*hello="Hello";
   returnhello =()=>{
     console.log(hello);
 
   }
-  returnhello();
+  returnhello();*/
